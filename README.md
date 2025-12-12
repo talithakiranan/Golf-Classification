@@ -8,6 +8,7 @@ This project aims to build a classification model to predict whether a golf play
 https://www.kaggle.com/datasets/samybaladram/golf-play-extended/data
 
 **3. Methodology: Data Science Approach**
+
 _**3.1 Data Preparation**_
 - **Feature Engineering:** Encoding categorical features to convert text labels into a binary format
 - **Selective Scaling:** Standard Scaling was applied to continuous numerical features
